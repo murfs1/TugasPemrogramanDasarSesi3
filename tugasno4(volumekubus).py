@@ -5,7 +5,7 @@
 sisi = float(input(" Masukkan Sisi : "))
 
 #membuat rumus volume kubus
-hasil = sisi+sisi+sisi
+hasil = sisi*sisi*sisi
 
 #membuat output
 print(" Volume Kubus adalah : ",hasil)
